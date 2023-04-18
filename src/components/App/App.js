@@ -1,12 +1,14 @@
-import React, { Component } from 'react';
- 
- 
-
+import React, { Component } from 'react'; 
+import Header from '../header';
+import Social from '../social';
+import './app-styles.css'
 class App extends Component {
   render() {
     return (
-      <div>
-        App
+      <div id='app'> 
+        <Header/>
+        <Social/>
+        
       </div>
     );
   }

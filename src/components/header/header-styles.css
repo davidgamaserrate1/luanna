@@ -1,0 +1,14 @@
+.header{
+    background: #fc3369;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;          
+    color: #fff;
+    
+}
+
+h1{
+    margin: 7px 13px;
+    font-weight: bold;
+}

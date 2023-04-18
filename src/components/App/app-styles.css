@@ -1,0 +1,18 @@
+#app{
+    font-family: 'Saira', sans-serif;
+    background: url('../../assets/gato.png') 400px 400px, url('../../assets/fundo-detalhado.png'), url('../../assets/detalhes.png');
+    background-position: 15% 80%;
+    background-size: cover;
+      
+    height: 100vh;
+    width: 100vw;
+}
+
+@media screen and (max-width: 768px ){
+    #app{
+         
+
+    }
+    
+    
+}
